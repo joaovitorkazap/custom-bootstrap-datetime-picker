@@ -1,5 +1,5 @@
 # custom-bootstrap-datetime-picker
-Bootstrap Datetime Picker adapted for Bootstrap 4
+Bootstrap Datetime Picker adapted for Bootstrap 4 (still in test)
 
 Note: take the js and css from the build folder
 
