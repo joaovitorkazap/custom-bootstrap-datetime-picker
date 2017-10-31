@@ -2,7 +2,7 @@
 Bootstrap Datetime Picker adapted for Bootstrap 4
 
 I didn't modified where it takes the icons, i thought it was easier to use fon't-awesome icons:
-
+```
   $('.datetimepicker').datetimepicker
     icons: {
             time: "fa fa-clock-o",
@@ -14,3 +14,4 @@ I didn't modified where it takes the icons, i thought it was easier to use fon't
     widgetPositioning:
       vertical: 'top'
       horizontal: 'left'
+```
