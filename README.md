@@ -1,5 +1,6 @@
 # custom-bootstrap-datetime-picker
 Bootstrap Datetime Picker adapted for Bootstrap 4
+
 Note: take the js and css from the build folder
 
 I didn't modified where it takes the icons, i thought it was easier to use fon't-awesome icons:
